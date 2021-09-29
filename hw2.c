@@ -20,13 +20,13 @@ int main (void) {
 
     printf("%d %d, a+b, a-b");
 
-    if() {
+    if(a > b) {
         printf("%d ", a);
     } else {
         printd("%d ", b);
     }
     
-    if() {
+    if(a == b) {
         printf("%d \n", 1);
     } else {
         printf('%d \n", 0');
